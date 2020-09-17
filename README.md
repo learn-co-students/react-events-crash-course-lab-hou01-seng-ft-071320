@@ -37,7 +37,7 @@ documentation on events:
 - You do not need any state in this application to make it work. The focus of this lab is practicing event handling in React.
 - The functions `drawChromeBoiAtCoords`, `toggleCycling`, and `resize` are NOT props. They are functions exported from the `canvasHelpers.js` file, so you can't call them off `this.props`; just invoke them like a regular function. 
 
-#### Once Finished
+#### Once Finishe
 
 `npm start` and assert the following expected behavior:
 
